@@ -127,7 +127,7 @@ class DS():
         self.word_len = word_len
         self.performation = {}
         self.time_now = time.asctime(time.localtime(time.time()))
-        self.dir = "./model_save_2/{}_{}_{}_{}/{}".format(args.d_1, args.d_2, args.f, args.m, self.time_now)
+        self.dir = "./model_save/{}_{}_{}_{}/{}".format(args.d_1, args.d_2, args.f, args.m, self.time_now)
         print("time:{}".format(self.time_now))
       
        
