@@ -14,7 +14,7 @@
 * 本文件夹存放各模型代码
 * deepMal-model
 * lstm-model
-* MGREL-model
+* MGREL-model（命名为mix_mult_bilstm及变体）
 * M1CNN-model
 * M2CNN-model
 * RTETC-model
